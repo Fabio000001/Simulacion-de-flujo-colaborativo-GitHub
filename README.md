@@ -31,3 +31,5 @@ Este repositorio tiene como objetivo simular un flujo de trabajo colaborativo en
 6. Revisar, comentar y aprobar los cambios.
 
 7. Fusionar la rama y eliminarla si ya no es necesaria.
+
+8. Desplegar el repositorio
