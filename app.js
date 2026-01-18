@@ -1,4 +1,5 @@
 
 console.log('Hello, World!');
 
-// Arreglando issue #123: Añadiendo funcionalidad adicional
+// Arreglando issue 
+// Cerrando issue #10
