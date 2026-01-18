@@ -1,4 +1,7 @@
 # Simulacion-de-flujo-colaborativo-GitHub
+Guille
+Cambio solicitado por Fabio
+
 
 ## Introducción
 
@@ -15,3 +18,4 @@ Este repositorio tiene como objetivo simular un flujo de trabajo colaborativo en
 - Gestionar conflictos de manera correcta.
 
 - Aplicar buenas prácticas en mensajes de commits y organización del repositorio.
+
