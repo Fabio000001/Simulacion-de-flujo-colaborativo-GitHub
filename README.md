@@ -37,4 +37,6 @@ Este repositorio tiene como objetivo simular un flujo de trabajo colaborativo en
 
 8. Desplegar el repositorio
 
+9. Actualizar periódicamente.
+
 ## Colaboración
